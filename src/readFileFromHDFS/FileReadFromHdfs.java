@@ -41,7 +41,7 @@ public class FileReadFromHdfs {
 
 
 
-        downloadFile("C:\\Users\\cafeyqian\\Desktop\\","hdfs://10.10.0.104:9000/picture_pix.txt");
+        downloadFile("C:\\Users\\cafeyqian\\Desktop\\","hdfs://10.10.0.104:9000/hello.txt");
 
 
     }
